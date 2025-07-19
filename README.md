@@ -4,16 +4,32 @@ ExamGenius is a Streamlit web application that automatically generates exam ques
 
 ## ✨ Features
 
--   **Syllabus Parsing**: Extracts text and key topics from any syllabus PDF.
--   **AI-Powered Question Generation**: Uses the Groq API to generate relevant exam questions.
--   **Customizable Exams**: Configure the exam's difficulty, number of multiple-choice questions, and number of short-answer questions.
--   **PDF Export**: Download the generated questions as a formatted PDF.
--   **User-Friendly Interface**: Simple and intuitive web interface built with Streamlit.
+- **Syllabus Parsing**: Extracts text and key topics from any syllabus PDF.
+- **AI-Powered Question Generation**: Uses the Groq API to generate relevant exam questions.
+- **Customizable Exams**: Configure the exam's difficulty, number of multiple-choice questions, and number of short-answer questions.
+- **PDF Export**: Download the generated questions as a formatted PDF.
+- **User-Friendly Interface**: Simple and intuitive web interface built with Streamlit.
 
-## 📋 Prerequisites
+## � Demo Screenshots
 
--   Python 3.8+
--   A Groq API Key
+Here's a visual walkthrough of the ExamGenius application:
+
+### Main Interface
+
+![Main Interface](images/shot1.png)
+
+### Question Generation Process
+
+![Question Generation](images/shot2.png)
+
+### Generated Exam Output
+
+![Generated Exam](images/shot3.png)
+
+## �📋 Prerequisites
+
+- Python 3.8+
+- A Groq API Key
 
 ## 🚀 Setup and Installation
 
